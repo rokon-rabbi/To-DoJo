@@ -1,0 +1,17 @@
+/* Neumorphic Card */
+/* .neumorphic-card {
+    box-shadow: 8px 8px 16px #bebebe, -8px -8px 16px #ffffff;
+    border-radius: 20px;
+  }
+  
+  .neumorphic-card:hover {
+    box-shadow: 6px 6px 12px #d4d4d4, -6px -6px 12px #f8f8f8;
+  } */
+  .neumorphic-cardx {
+    box-shadow: 2px 2px 2px #bebebe, -2px -2px 4px #ffffff;
+    border-radius: 20px;
+  }
+  
+  .neumorphic-cardx:hover {
+    box-shadow: 1px 1px 2px #d4d4d4, -1px -1px 2px #f8f8f8;
+  }
